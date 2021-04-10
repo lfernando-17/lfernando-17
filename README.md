@@ -12,7 +12,7 @@
 </ul> 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfernando-17)](https://github.com/lfernando-17/github-readme-stats)
+[lfernando-17 Status](https://github-readme-stats.vercel.app/api?username=lfernando-17)](https://github.com/lfernando-17/github-readme-stats)(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
