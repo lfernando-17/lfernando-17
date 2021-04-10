@@ -10,6 +10,9 @@
   <li> Linkedin : https://www.linkedin.com/in/lfernando17/ </li>
   <li> Email : lfernandoleal17@gmail.com </li>
 </ul> 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfernando-17)](https://github.com/lfernando-17/github-readme-stats)
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
