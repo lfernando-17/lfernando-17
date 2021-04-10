@@ -15,7 +15,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfernando-17&langs_count=8&layout=compact)](https://github.com/lfernando-17/github-readme-stats)
   
   
-<h2> My Github Stats </h2>
+<h2> 📊 My Github Stats </h2>
 
 [![lfernando17's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfernando-17&show_icons=true&theme=highcontrast)](https://github.com/lfernando-17/github-readme-stats)
 
