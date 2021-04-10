@@ -1,4 +1,4 @@
-<div style="line-height: 1.6"> <h2> Hi there 👋 , I'm Luiz Fernando </h2>
+<h2> Hi there 👋 , I'm Luiz Fernando </h2>
 
 - 🔭 I’m currently studying System's Information at Unilasalle-RJ's university
 - 🌱 I’m currently learning Java
@@ -19,7 +19,7 @@
 
 [![lfernando17's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfernando-17&show_icons=true&theme=highcontrast)](https://github.com/lfernando-17/github-readme-stats)
 
-</div>
+
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
