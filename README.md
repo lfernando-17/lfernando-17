@@ -15,7 +15,7 @@
 <ul>
 <li> Github : https://github.com/lfernando-17 </li>
   <li> Linkedin : https://www.linkedin.com/in/lfernando17/ </li>
-  <li> Email : lfernandoleal17@gmail.com </li>
+  <li> Email : <a>lfernandoleal17@gmail.com </li></a>
 </ul> 
 <h2> 📚 My top programming languanges </h2> 
 
