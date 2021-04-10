@@ -1,6 +1,6 @@
 <h2> Hi there 👋 , I'm Luiz Fernando </h2>
-
-<img src="https://camo.githubusercontent.com/7d08574d56b05a00488df5f1b88815305865c5aba8dabcf4ffef917922a85d3b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d4578706572742d626c7565" alt="CSS" data-canonical-src="https://img.shields.io/badge/CSS-Expert-blue" style="max-width:100%;">
+<!--
+<img src="https://camo.githubusercontent.com/7d08574d56b05a00488df5f1b88815305865c5aba8dabcf4ffef917922a85d3b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d4578706572742d626c7565" alt="CSS" data-canonical-src="https://img.shields.io/badge/CSS-Expert-blue" style="max-width:100%;"> -->
 
 - 🔭 I’m currently studying System's Information at Unilasalle-RJ's university
 - 🌱 I’m currently learning Java
