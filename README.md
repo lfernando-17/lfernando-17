@@ -12,7 +12,7 @@
 </ul> 
 
 
-[![lfernando17's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![lfernando17's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfernando-17&show_icons=true&theme=highcontrast)](https://github.com/lfernando-17/github-readme-stats)
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
