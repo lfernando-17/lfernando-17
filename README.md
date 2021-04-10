@@ -11,9 +11,8 @@
   <li> Email : lfernandoleal17@gmail.com </li>
 </ul> 
 <h2> My top programming languanges </h2> 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfernando-17&layout=compact)](https://github.com/lfernando-17/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfernando-17&langs_count=8&layout=compact)](https://github.com/lfernando-17/github-readme-stats)
   
   
 <h2> My Github Stats </h2>
